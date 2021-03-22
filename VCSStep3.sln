@@ -1,7 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 10
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomaticProperties", "AutomaticProperties\AutomaticProperties.csproj", "{1EAA005F-6C2C-4615-BE28-FD14659792AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowProperties", "WindowProperties\WindowProperties.csproj", "{3511248A-EA18-46C1-A551-18C7D17CBB51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,8 +17,15 @@ Global
 		{1EAA005F-6C2C-4615-BE28-FD14659792AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EAA005F-6C2C-4615-BE28-FD14659792AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EAA005F-6C2C-4615-BE28-FD14659792AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3511248A-EA18-46C1-A551-18C7D17CBB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3511248A-EA18-46C1-A551-18C7D17CBB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3511248A-EA18-46C1-A551-18C7D17CBB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3511248A-EA18-46C1-A551-18C7D17CBB51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3DEEA88-E9F1-46A7-902B-4B9AF2EBDFD7}
 	EndGlobalSection
 EndGlobal
