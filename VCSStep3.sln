@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowProperties", "WindowP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "Indexers\Indexers.csproj", "{7C105756-7BD4-40AD-BA7D-FDCEA6D1D36A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "ClockDlg\Clock.csproj", "{A6FF9DB6-2BDC-48EA-B761-FCF69B1C42DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockEvent", "ClockEvent\ClockEvent.csproj", "{11D809E0-8ECF-4C1B-88E5-BB391E99DDED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{7C105756-7BD4-40AD-BA7D-FDCEA6D1D36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C105756-7BD4-40AD-BA7D-FDCEA6D1D36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C105756-7BD4-40AD-BA7D-FDCEA6D1D36A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6FF9DB6-2BDC-48EA-B761-FCF69B1C42DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FF9DB6-2BDC-48EA-B761-FCF69B1C42DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FF9DB6-2BDC-48EA-B761-FCF69B1C42DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FF9DB6-2BDC-48EA-B761-FCF69B1C42DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D809E0-8ECF-4C1B-88E5-BB391E99DDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D809E0-8ECF-4C1B-88E5-BB391E99DDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D809E0-8ECF-4C1B-88E5-BB391E99DDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D809E0-8ECF-4C1B-88E5-BB391E99DDED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
